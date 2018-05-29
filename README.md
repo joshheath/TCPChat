@@ -5,7 +5,7 @@ A Ruby chat app using the Ruby standard library Socket. Server receives client c
 ## Getting started
 
 `git clone https://github.com/n-ckr-ch-rds-n/TCPChat/edit/master/README.md`
-`bundle` (e.g. `bundle`)
+`bundle`
 
 ## Usage
 
