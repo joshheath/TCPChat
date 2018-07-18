@@ -1,4 +1,4 @@
-# TerminalChat
+# TCPChat
 
 A side project built during week 3 at Makers, using Ruby. 
 
