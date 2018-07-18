@@ -1,13 +1,18 @@
-# TCPChat
+# TerminalChat
 
-A Ruby chat app using the Ruby standard library Socket. Server receives client connections and stores them in data dictionaries. The dictionaries keep track of what room the client is located in, receive messages, and relay the messages to other users. Change 'localhost' to the IP address of the server host to operate. 
+A side project built during week 3 at Makers, using Ruby. 
 
-## Getting started
+The app works from the terminal and acts as a chatroom, allowing users to enter a username and then communicate with each other via a server. Eaxh user can send and receive messages with all other users in the chatroom. 
 
-`git clone https://github.com/n-ckr-ch-rds-n/TCPChat/edit/master/README.md`
-`bundle`
+The server receives connections from the client(s) and saves them in data dictonaries. These keep track of which chatroom each client is in. 
 
-## Usage
+## How to access the chatroom
+
+`git clone https://github.com/joshheath/TCPChat.git`
+`bundle install`
+- In `server.rb` change 'localhost' on line 44 to the IP address of the server host.
+
+## Required files for use
 
 `server.rb`
 `client.rb`
