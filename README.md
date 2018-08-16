@@ -8,7 +8,7 @@ The server receives connections from the client(s) and saves them in data dicton
 
 ## How to access the chatroom
 
-`git clone https://github.com/joshheath/TCPChat.git`
+`git clone https://github.com/joshheath/TCPChat.git`  
 `bundle install`
 - In `server.rb` change 'localhost' on line 44 to the IP address of the server host.
 
