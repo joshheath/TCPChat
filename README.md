@@ -2,7 +2,7 @@
 
 A side project built during week 3 at Makers, using Ruby. 
 
-The app works from the terminal and acts as a chatroom, allowing users to enter a username and then communicate with each other via a server. Eaxh user can send and receive messages with all other users in the chatroom. 
+The app works from the terminal and acts as a chatroom, allowing users to enter a username and then communicate with each other via a server. Each user can send and receive messages with all other users in the chatroom. 
 
 The server receives connections from the client(s) and saves them in data dictonaries. These keep track of which chatroom each client is in. 
 
